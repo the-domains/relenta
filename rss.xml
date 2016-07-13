@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Email-based CRM that gets things done]]></title>
+        <description><![CDATA[Email-based CRM that gets things done]]></description>
+        <link>https://thegrid.ai/relenta/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jul 2016 18:05:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/relenta/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdecf9e3-8895-4115-a5dc-da829d55d986.png">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/bdecf9e3-8895-4115-a5dc-da829d55d986.png</link>
+            <guid isPermaLink="false">778042fe-b34c-4df1-8e3d-24ba78d1cec4</guid>
+            <pubDate>Wed, 13 Jul 2016 18:05:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Email-based CRM that gets things done]]></title>
+            <description><![CDATA[<article><h1>Email-based CRM that gets things done</h1><p>EMAIL AND CRM:TOGETHER AT LAST</p></article>]]></description>
+            <link>http://rins.relenta.com/</link>
+            <guid isPermaLink="false">a590960c-270e-4032-9cf5-6357acdae4ed</guid>
+            <pubDate>Wed, 13 Jul 2016 18:05:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
