@@ -1,0 +1,14 @@
+layout_spectrum: 0.5144965627696365
+typography_spectrum: 0.5211355532519519
+color:
+  brandStrength: 0.17716310499235988
+  lightness: 0.23975959583185613
+  saturation: 0.6708094130735844
+  rhythmicContrast: 0.714082102291286
+  brandColors:
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+name: Relenta
